@@ -1,0 +1,2 @@
+# chatBot
+The PDF Chatbot App is a powerful and interactive Streamlit-based application that enables users to upload PDF documents and interact with them using natural language. Users can ask questions related to the content of the uploaded PDF, and the app will provide accurate answers based on the document's content. This functionality is powered by Cohere's language model for embedding text and ChromaDB for storing and querying document embeddings.
